@@ -1,0 +1,6 @@
+estou desenvolvendo um jogo de estrategia
+o player podera colocar soldados para guerrear, com base no dinheiro 
+e tambem podera controlar seu proprio soldado
+o objetivo e concluir todas as missoes 
+
+conforme o tempo for passando e eu aprender novas funcionalidades, vou adicionando elas as novas versões
